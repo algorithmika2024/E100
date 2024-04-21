@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+title{
+    font-size: 24px;
+    text-align: center;
+}
+
+footer p{
+    text-decoration: none;
+    border: aqua;}
